@@ -2,8 +2,7 @@
     {
         "device_id": "device123",
         "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "expirydate": "31-12-202matrix      "Allowoffline": true
     },
     {
         "device_id": "device456",
@@ -37,7 +36,7 @@
     },
     {
         "device_id": "33da4b728332f33d",
-        "key": "matrix",
+        "key": "33da4b728332f33d",
         "expirydate": "23-09-2026",
         "Allowoffline": false
     },
