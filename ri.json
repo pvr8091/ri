@@ -59,5 +59,11 @@
         "expirydate": "05-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "bbe638f5a32bf12e",
+        "key": "bbe638f5a32bf12e",
+        "expirydate": "06-11-2025",
+        "Allowoffline": false
+    },
    
 ]
