@@ -83,5 +83,11 @@
         "expirydate": "13-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "a4eae00a24fa5431",
+        "key": "a4eae00a24fa5431",
+        "expirydate": "18-11-2025",
+        "Allowoffline": false
+    },
     
 ]
