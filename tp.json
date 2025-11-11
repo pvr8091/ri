@@ -23,6 +23,12 @@
         "expirydate": "27-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "56277e372d628cfd",
+        "key": "56277e372d628cfd",
+        "expirydate": "11-12-2025",
+        "Allowoffline": false
+    },
     
     
 ]
