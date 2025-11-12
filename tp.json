@@ -29,6 +29,12 @@
         "expirydate": "11-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "ddfa7306294a819b",
+        "key": "ddfa7306294a819b",
+        "expirydate": "12-12-2025",
+        "Allowoffline": false
+    },
     
     
 ]
