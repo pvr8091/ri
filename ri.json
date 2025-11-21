@@ -71,11 +71,5 @@
         "expirydate": "06-12-2025",
         "Allowoffline": false
     },
-     {
-        "device_id": "15a35cbdb2138ec2",
-        "key": "15a35cbdb2138ec2",
-        "expirydate": "14-12-2025",
-        "Allowoffline": false
-    },
-    
+      
 ]
