@@ -17,24 +17,5 @@
         "expirydate": "31-12-2025",
         "Allowoffline": false
     },
-    {
-        "device_id": "56277e372d628cfd",
-        "key": "56277e372d628cfd",
-        "expirydate": "11-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "ddfa7306294a819b",
-        "key": "ddfa7306294a819b",
-        "expirydate": "12-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "90971fc1c3b6ed5d",
-        "key": "90971fc1c3b6ed5d",
-        "expirydate": "13-12-2025",
-        "Allowoffline": false
-    },
-    
     
 ]
