@@ -47,5 +47,12 @@
         "expirydate": "29-12-2025",
         "Allowoffline": false
     },
+     {
+        "device_id": "90971fc1c3b6ed5d",
+        "key": "90971fc1c3b6ed5d",
+        "expirydate": "15-01-2026",
+        "Allowoffline": false
+    },
       
 ]
+
