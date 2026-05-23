@@ -35,6 +35,12 @@
         "expirydate": "12-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "c7d0f2f2eea18d1b",
+        "key": "c7d0f2f2eea18d1b",
+        "expirydate": "13-06-2026",
+        "Allowoffline": false
+    },
     
 
 ]
