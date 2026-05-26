@@ -1,21 +1,8 @@
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "11e8d836540d1552",
-        "key": "11e8d836540d1552",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    },
+        "isExpired": "true",
+  "message": "This version is outdated!",
+  "updateUrl": "https://t.me/YoutTelegram
+    }
     
 ]
