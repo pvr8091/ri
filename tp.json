@@ -1,8 +1,87 @@
-
+[
     {
-        "isExpired": "true",
-  "message": "This version is outdated!",
-  "updateUrl": "https://t.me/YoutTelegram"
-    }
-    
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "11e8d836540d1552",
+        "key": "11e8d836540d1552",
+        "expirydate": "31-12-2027",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "2075f2655b96242a",
+        "key": "2075f2655b96242a",
+        "expirydate": "23-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "dd0f2ad8d93274fc",
+        "key": "dd0f2ad8d93274fc",
+        "expirydate": "05-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "1fd7dab74471e19e",
+        "key": "1fd7dab74471e19e",
+        "expirydate": "06-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ab0dd2eaf4338103",
+        "key": "ab0dd2eaf4338103",
+        "expirydate": "30-05-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "e6f1676ce5cf4310",
+        "key": "e6f1676ce5cf4310",
+        "expirydate": "05-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "240b70a744c84e47",
+        "key": "240b70a744c84e47",
+        "expirydate": "07-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "3b483f7d31a7e36e",
+        "key": "3b483f7d31a7e36e",
+        "expirydate": "11-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "544384c1cd481121",
+        "key": "544384c1cd481121",
+        "expirydate": "14-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "56277e372d628cfd",
+        "key": "56277e372d628cfd",
+        "expirydate": "18-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0872ea2c46c7aaf0",
+        "key": "0872ea2c46c7aaf0",
+        "expirydate": "22-06-2026",
+        "Allowoffline": false
+   },
+   {
+        "device_id": "33fdca3e63e27647",
+        "key": "33fdca3e63e27647",
+        "expirydate": "26-06-2026",
+        "Allowoffline": false
+   },
 
+]
