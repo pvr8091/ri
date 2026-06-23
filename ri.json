@@ -18,15 +18,15 @@
         "Allowoffline": false
     },
     {
-        "device_id": "ea799133a02ae4b0",
-        "key": "ea799133a02ae4b0",
-        "expirydate": "23-06-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "c5c778743b2f2361",
         "key": "c5c778743b2f2361",
         "expirydate": "22-07-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f0ef0eb7488b9cf9",
+        "key": "f0ef0eb7488b9cf9",
+        "expirydate": "23-07-2026",
         "Allowoffline": false
     },
 ]
